@@ -1,0 +1,6 @@
+asyncio
+pydub
+shazamio
+twitchio
+streamlink
+ffmpeg-python

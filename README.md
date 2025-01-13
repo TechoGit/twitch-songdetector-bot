@@ -17,4 +17,4 @@ I'm thinking of solving this by making the bot read chat and if it sees the mess
 
 This bot is designed for Ravena the Twitch Streamer
 
-
+Inactive as of August 2024 
